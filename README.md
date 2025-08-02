@@ -1,4 +1,5 @@
 <style>
+  
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 
 .softstack-banner {
@@ -96,6 +97,7 @@
   justify-content: flex-end;
   gap: 0.8rem;
 }
+
 </style>
 
 <!-- Softstack Studios GitHub Banner -->
