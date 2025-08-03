@@ -42,7 +42,7 @@ I write code under the **Softstack Studios** umbrella, with my main portfolio se
 
 ## ☕ CodeLatte Series
 Projects with heart, built with intention:
-- `bean-counter` – a warm little database manager
+- `inventory-grounds` – a warm little database manager
 - `grade-au-lait` – a smooth midterm grade calculator
 - `compound-cup` – brews up your compound interest
 - `drip-filter` – filters data like a slow pour
