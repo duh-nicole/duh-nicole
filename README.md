@@ -34,7 +34,7 @@
 
 # 👋 Hey there, I'm Nicole!
 
-I'm a student developer building ✨cozy, creative, human-centered✨ web apps — with a focus on clean code, accessible design, and vibes. 
+I'm a student developer building ✨cozy, creative, human-centered✨ web apps — with a focus on clean code, accessible design, and, of course, vibes. 
 
 I write code under the **Softstack Studios** umbrella, with my main portfolio series called **CodeLatte** — because nothing pairs better with logic than lattes.
 
@@ -42,7 +42,7 @@ I write code under the **Softstack Studios** umbrella, with my main portfolio se
 
 ## ☕ CodeLatte Series
 Projects with heart, built with intention:
-- `inventory-grounds` – a warm little database manager
+- `daily-grind` – a warm little database manager
 - `grade-au-lait` – a smooth midterm grade calculator
 - `compound-cup` – brews up your compound interest
 - `drip-filter` – filters data like a slow pour
