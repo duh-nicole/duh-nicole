@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Nicole!
 
-I'm a student developer building ✨cozy, creative, human-centered✨ web apps — with a focus on clean code, accessible design, and, of course, vibes. 
+I'm an accessibility-first developer building ✨cozy, creative, human-centered✨ web apps — with a focus on clean code, accessible design, and, of course, vibes. 
 
 I write code under the **Softstack Studios** umbrella, with my main portfolio series called **CodeLatte** — because nothing pairs better with logic than lattes.
 
